@@ -202,8 +202,11 @@ GROUP BY shift
 
 ## Conclusion
 
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+This project helped me improve my practical SQL knowledge by working with retail sales data and solving business-related problems.
 
+I practiced important SQL concepts such as filtering, grouping, aggregate functions, subqueries, CTEs, and window functions.
+
+It also improved my understanding of how SQL can be used to explore data, identify patterns, and generate useful business insights.
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
@@ -211,17 +214,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-## Author - Zero Analyst
+## Author 
+Rohit Sunar
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
-### Stay Updated and Join the Community
-
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
-
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
+This project is part of my practical SQL learning journey.
 
 Thank you for your support, and I look forward to connecting with you!
